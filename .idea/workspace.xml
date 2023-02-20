@@ -4,7 +4,99 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c23099b8-a67d-4693-856c-ec909017f2b0" name="Changes" comment="" />
+    <list default="true" id="c23099b8-a67d-4693-856c-ec909017f2b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1/Cajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1/Ventanilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio10/CentroDeControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio10/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio10/Vehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2/Docentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2/IDocente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/CreatorKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/Cuadernos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/Deportivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/IKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/KitColegial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/KitColegialCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/KitEscolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/KitEscolarCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/Mochila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4/FactoryMateria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4/Historia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4/Ingles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4/Lenguaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4/Matematicas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4/Materia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5/Bife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5/BuilderEspecialidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5/Chef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5/Especialidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5/Lomito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5/Tira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio6/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio6/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio6/EspanolIngles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio6/Given.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio6/OtraPalabra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio6/Then.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio6/Traductor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio6/When.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio6/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/EmpresaArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/EmpresaList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/EmpresaStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/EmpresaVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/IList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/IteratorEmpresaArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/IteratorEmpresaList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/IteratorEmpresaStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/IteratorEmpresaVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio8/Cajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio8/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio8/CuentaPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio8/FactoryPrestamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio8/Prestamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio8/PrestamoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio8/PrestamoFinanciamiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio8/PrestamoNegocio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio8/PrestamoVivienda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio8/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/AbstractExpresion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/NumberToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Roman1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Roman10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Roman2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Roman3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Roman4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Roman5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Roman6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Roman7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Roman8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/Roman9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio9/_enunciado" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,14 +107,117 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LuVEmBUktAFvlOIJysiLK2TiYG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/enchu/IdeaProjects/PatronDeDiseno",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Ejercicio9" />
+      <recent name="Ejercicio6" />
+      <recent name="Ejercicio4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ejercicio10.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio8.Client" />
+      <module name="Parcial1_Patrones_DIseno.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio10.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio10.Client" />
+      <module name="Parcial1_Patrones_DIseno.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio1.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio1.Client" />
+      <module name="Parcial1_Patrones_DIseno.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio7.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio7.Client" />
+      <module name="Parcial1_Patrones_DIseno.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio9.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio9.Client" />
+      <module name="Parcial1_Patrones_DIseno.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejercicio10.Client" />
+        <item itemvalue="Application.Ejercicio1.Client" />
+        <item itemvalue="Application.Ejercicio9.Client" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Ejercicio7.Client" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
